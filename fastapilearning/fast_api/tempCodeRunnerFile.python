@@ -1,0 +1,6 @@
+import numpy as np 
+import pandas as pd
+book_df = pd.read_csv('D:\Books.csv')
+ratings_df = pd.read_csv('D:\Ratings.csv')
+user_df = pd.read_csv('D:\Users.csv')
+print(book_df)

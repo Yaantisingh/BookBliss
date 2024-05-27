@@ -1,0 +1,54 @@
+.formparent{
+    margin-top: 11%;
+    height: 900px;
+    width: 100%;
+    /* background-image: url("D:\finalproj\reactapp\my-react-projapp\public\images\bgimg2.avif");  */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#insertform{
+    align-items: center;
+    height: 90%;
+    width: 35%;
+    /* margin-top: 8%; */
+    margin-left: 33%;
+    background-image: url("C:\finalproj\reactapp\my-react-projapp\public\images\books1.avif");
+    box-shadow: -5px 5px 5px 2.5px grey;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contents{
+    margin-top: 1%;
+    padding-top: 3%;
+    height: 0.1cm;
+    width: 80%;
+    margin-left: 5%;
+    padding-bottom: 3%;
+}
+#button{
+    margin-left: 6%;
+    width: 85%;
+    margin-top: 2%;
+    border-radius: 10px;
+    /* box-shadow: -5px 5px 5px 2.5px rgb(137, 134, 136); */
+}
+#addmsg{
+    margin-left: 15%;
+    width: 85%;
+    margin-top: 8%;
+}
+#bid{
+    padding-top: 4%;
+}
+.fields{
+    padding-left: 8%;
+    color: white;
+    font-size: 22px;
+}
+
+.admin_button{
+    margin-left:50px;
+    width:180px;
+    font-size: 20px;
+    background-color: rgb(134, 134, 218);
+}

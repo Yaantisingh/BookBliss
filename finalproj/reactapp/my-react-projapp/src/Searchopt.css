@@ -1,0 +1,52 @@
+#searchoptions{
+    margin-top:80px;
+    height: 90px;
+    width: 1520px;
+    position: fixed;
+    /* z-index: 3; */
+    background-color: white;
+}
+#author{
+    margin: 2px;
+    height: 105px;
+    width: 11%;
+          float: left;
+          padding-top: 3.5%;
+          text-align: center;
+          font-size: larger;
+          margin-left: 20%;
+          background-image: url("C:\finalproj\reactapp\my-react-projapp\public\images\img7.jpg");
+          background-size: 225px;
+          background-repeat: no-repeat;
+
+    }
+    #author:hover{
+      transition: 0.2s;
+      transform: scale(1.3);
+  }
+  #author:not(:hover){
+    transition: 1s;
+    transform: scale(1);
+  }
+    #category{
+        margin: 2px;
+        height: 105px; 
+        width: 11%;
+          float: left;
+          padding-top: 3.5%;
+          text-align: center;
+          font-size: larger;
+          margin-left: 20%;
+          background-image: url("D:\finalproj\reactapp\my-react-projapp\public\images\img7.jpg");
+          background-size: 225px;
+          background-repeat: no-repeat;
+          color: rgb(244, 225, 15);
+    }
+    #category:hover{
+      transition: 0.2s;
+      transform: scale(1.3);
+  }
+  #category:not(:hover){
+    transition: 1s;
+    transform: scale(1);
+  }

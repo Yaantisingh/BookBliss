@@ -1,0 +1,9 @@
+ .container1{
+    margin-top:5px;
+    margin-left:20px;
+    width:45px;
+    height:170px;
+    float: left;
+    z-index: 2;
+    background-color: rgb(97, 137, 231);
+  }

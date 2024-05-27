@@ -1,0 +1,55 @@
+/* .formparent{
+    margin-top: 11%;
+    height: 700px;
+    width: 100%;
+    background-image: url("D:\finalproj\reactapp\my-react-projapp\public\images\bgimg2.avif"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+#delform{
+    margin-left: 35%;
+    margin-top: 11%;
+    margin-bottom: 11%;
+    height: 400px;
+    width: 30%;
+    background-image: url("C:\finalproj\reactapp\my-react-projapp\public\images\books1.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: -5px 5px 5px 2.5px grey;
+}
+#Delete_Book{
+    padding-top:8%;
+    margin-left:30%;
+    color: aliceblue;
+}
+#cont{
+    margin-top:10%;
+    margin-left:11%;
+    border-radius:5px;
+    width: 70%;
+}
+#dmsg{
+    margin-left: 15%;
+    width: 85%;
+    margin-top: 8%;
+   color: aliceblue;
+}
+#derror{
+    margin-left: 15%;
+    width: 85%;
+    margin-top: 8%;
+   color: aliceblue;
+}
+#delb{
+    margin-left: 11%;
+    width: 75%;
+    margin-top: 12%;
+    border-radius: 10px;
+  
+}
+.admin_button{
+    margin-left:50px;
+    width:180px;
+    font-size: 20px;
+    background-color: rgb(134, 134, 218);
+}

@@ -1,0 +1,42 @@
+INFO:main:logging from the get book function
+INFO:main:logging from the get book function
+INFO:main:logging from the add books to cart function
+INFO:main:2
+INFO:main:None
+INFO:main:1
+INFO:main:1
+INFO:main:logging from the loginUser function
+INFO:main:Entering login_user function
+INFO:main:Yaanti
+INFO:main:Yaanti@2003
+INFO:main:[{'username': 'Yaanti', 'password': 'Yaanti@2003', 'email': 'yaantis@gmail.com', 'phone': '2345167891', 'house_num': None, 'street_num': None, 'district': 'jamnagar', 'pincode': 345002, 'state': 'Gujarat'}]
+INFO:main:logging from the add books to cart function
+INFO:main:2
+INFO:main:None
+INFO:main:1
+INFO:main:1
+INFO:main:logging from the add books to cart function
+INFO:main:2
+INFO:main:None
+INFO:main:1
+INFO:main:1
+INFO:main:logging from the add books to cart function
+INFO:main:2
+INFO:main:None
+INFO:main:1
+INFO:main:1
+INFO:main:logging from the add books to cart function
+INFO:main:2
+INFO:main:None
+INFO:main:1
+INFO:main:1
+INFO:main:logging from the add books to cart function
+INFO:main:2
+INFO:main:None
+INFO:main:1
+INFO:main:1
+INFO:main:logging from the add books to cart function
+INFO:main:2
+INFO:main:None
+INFO:main:1
+INFO:main:1

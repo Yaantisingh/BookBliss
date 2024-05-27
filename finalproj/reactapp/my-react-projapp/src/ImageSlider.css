@@ -1,0 +1,50 @@
+#fulimg{
+  margin-top:50px;
+  width:1600px;
+  margin-left: 0px;
+  height: 550px;
+  float: left;
+  z-index: 1;
+  background-color: rgb(20, 19, 19);
+}
+.image-slider {
+    position: relative;
+    width: 1600px;
+    margin: auto;
+  }
+  #imgtext{
+    color: aliceblue;
+    padding-left: 20%;
+    font-size: 70px;
+  }
+  #buttonimg {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.5em;
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+   
+  }
+  
+  button:focus {
+    outline: none;
+  }
+  
+  button:first-child {
+    left: 10px;
+  }
+  
+  button:last-child {
+    right: 10px;
+  }
+  
+  img {
+    width: 100%;
+    height: 550px;
+    display: block;
+    margin: auto;
+  }
+  

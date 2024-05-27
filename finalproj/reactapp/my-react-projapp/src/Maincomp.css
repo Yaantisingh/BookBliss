@@ -1,0 +1,50 @@
+#contents{
+    height:320px;
+    width: 28%;
+    background-color: white;
+    margin-top: 5%;
+    margin-left: 4%;
+    /* box-shadow: -5px 5px 5px 2.5px grey; */
+    margin-bottom: 1%;
+    float:left;
+    border:10px solid rgb(240, 162, 175);
+   
+}
+#contents:hover{
+    transition: 1s;
+    transform: scale(1.1);
+}
+#contents:not(:hover){
+    transition: 1s;
+    transform: scale(1);
+}
+#genres{
+    text-align: center;
+    color: black;
+}
+#picture{
+    height: 75%;
+    width: 40%;
+    background-color: white;
+    margin-left: 4%;
+    margin-bottom: 4%;
+    float: left;
+}
+.bimg{
+    height: 220px;
+    width: 100%;
+}
+#info{
+    height: 70%;
+    width: 50%;
+    background-color: white;
+    float: left;
+    margin-left: 4%;
+    text-decoration: solid;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 140%;
+}
+#info:hover{
+    font-weight: bold;
+    transition: 1s;
+}

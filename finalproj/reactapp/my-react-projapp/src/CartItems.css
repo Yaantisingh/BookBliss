@@ -1,0 +1,93 @@
+
+
+.cart_items {
+    list-style: none;
+    margin-top: 10px;
+  }
+  
+  .cart_item {
+    display: grid;
+    grid-template-columns: auto 1fr 100px 100px 100px auto;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+  }
+  
+  .cart_item img {
+    width: 80px;
+    height: auto;
+  }
+  
+  .book_title {
+    font-weight: bold;
+  }
+  
+  .quantity {
+    display: flex;
+    align-items: center;
+  }
+  
+  .quantity button {
+    cursor: pointer;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    padding: 5px 10px;
+    font-size: 16px;
+  }
+  
+  .quantity button{
+    background-color: #e0e0e0;
+  }
+  
+  .total_price {
+    color:rgb(14, 14, 15) ;
+    margin-left: 30px;
+  font-weight: bold;
+  }
+  
+  .remove_action button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .remove_action button{
+    color: rgb(7, 7, 7);
+  }
+  
+  .logout_button,
+  .proceed_to_pay_button {
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  .logout_button,
+  .proceed_to_pay_button{
+    background-color: #0056b3;
+  }
+  
+
+  .crt_btnn{
+    width: 200px;
+    background-color: #0056b3;
+    margin-left: 2%;
+    margin-top: 2%;
+  }
+
+.updbtn{
+  background-color: #362778;
+  color: #0f1010;
+  width: 80px;
+  height: 35px;
+  margin-left: 5px;
+  margin-right: 5px;
+}

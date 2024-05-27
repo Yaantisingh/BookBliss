@@ -1,0 +1,121 @@
+.d2{
+    margin-top:370px;
+    height: 398px;
+    width:1600px;
+    /* background: linear-gradient(45deg, #0c106a,#2ed1c1); */
+    background: linear-gradient(45deg, #2f2f31,#111111);
+}
+#media{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+#fb {
+    margin-top: 2%;
+    margin-left: 37%;
+    background: #4267b2;
+    height:50px;
+    width: 50px;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    float: left;
+}
+h1{
+    position:relative;
+    bottom:65%;
+    font-size: 3em;
+    font-family: 'Roboto',sans-serif;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+#yt{
+    margin-top: 2%;
+    display: flex;
+    margin-left: 4%;
+    justify-content: center;
+    align-items: center;
+    background-color: #f00;
+    width: 60px;
+    height:50px;
+    border-radius: 20px;
+    float: left;
+}
+#tri{
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+    border-left: 24px solid white;
+    position: relative;
+    left: 5px;
+}
+.insta{
+    margin-top: 2%;
+    width:53px;
+    height:53px;
+    background: radial-gradient(circle at 30% 107%,
+    #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285aeb 90%);
+    border-radius: 20px;
+    display: grid;
+    float: left;
+    place-items: center;
+    margin-left: 4%;
+}
+.inner{
+    width: 35px;
+    height: 35px;
+    border: 4px solid #fff;
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    position: relative;
+    top:12%;
+}
+.inner::before{
+    content: '';
+width: 14px;
+height:14px;
+border: 4px solid #fff;
+border-radius: 50%;
+background: transparent;
+position: absolute;
+}
+.inner::after{
+    content: '';
+width: 2px;
+height:2px;
+border: 2px solid #fff;
+border-radius: 50%;
+background: white;
+position: absolute;
+top:2px;
+right:3px;
+}
+.linked{
+    margin-top: 2%;
+    background-color: #285aeb;
+    width:53px;
+    height:53px;
+    float: left;
+    margin-left: 4%;
+    border-radius: 20px;
+}
+#b{
+    position:relative;
+    top:-2px;
+    color: #fff;
+    align-items: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+  left: 10%;
+}
+#sm{
+    margin-bottom: 14%;
+}
+#foot{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}

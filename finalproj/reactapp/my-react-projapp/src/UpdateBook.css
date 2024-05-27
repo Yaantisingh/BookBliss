@@ -1,0 +1,59 @@
+.updateformparent{
+    margin-top: 11%;
+    height: 950px;
+    width: 100%;
+    /* background-image: url("D:\finalproj\reactapp\my-react-projapp\public\images\bgimg2.avif");  */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#updateform{
+    align-items: center;
+    height: 70%;
+    width: 35%;
+    /* margin-top: 8%; */
+    margin-left: 33%;
+    background-image: url("C:\finalproj\reactapp\my-react-projapp\public\images\books1.avif");
+    box-shadow: -5px 5px 5px 2.5px grey;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.updcontents{
+    margin-top: 2%;
+    padding-top: 3%;
+    height: 0.1cm;
+    width: 80%;
+    margin-left: 5%;
+    padding-bottom: 3%;
+}
+#updbutton{
+    margin-left: 6%;
+    width: 85%;
+    margin-top: 2%;
+    border-radius: 10px;
+    /* box-shadow: -5px 5px 5px 2.5px rgb(137, 134, 136); */
+}
+#updmsg{
+    margin-left: 15%;
+    width: 85%;
+    margin-top: 8%;
+    color:aliceblue;
+}
+#ubid{
+    padding-top: 4%;
+}
+.updfields{
+    padding-left: 8%;
+    color: white;
+    font-size: 22px;
+}
+.admin_button{
+    margin-left:50px;
+    width:180px;
+    font-size: 20px;
+    background-color: rgb(134, 134, 218);
+}
+.updsearchinp{
+    margin-left: 30px;
+    width: 200px;
+    height:30px
+}

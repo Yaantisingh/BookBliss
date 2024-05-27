@@ -1,0 +1,23 @@
+#dis_style{
+    float:left;
+    margin-top: 4%;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 1%;
+    padding-bottom: 5%;
+    box-shadow: -5px 5px 5px 2.5px grey;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    background-color: aliceblue;
+    border: 10px solid rgb(248, 135, 210);
+    width: 270px;
+    height: 270px;
+}
+
+.admin_button{
+    margin-left:50px;
+    width:180px;
+    font-size: 20px;
+    background-color: rgb(134, 134, 218);
+}

@@ -1,0 +1,66 @@
+#fulcont{
+    margin-top:20px;
+    width:1600px;
+    height: 300px;
+}
+.aa{
+    margin-top:10px;
+    width:1600px;
+    height: 550px;
+   margin-right: 10%;
+}
+@keyframes moveText {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(100%); }
+  }
+#aa1{
+    margin-top: 1.5%;
+    margin-left: 30px;
+    height: 500px;
+    /* padding-top: 4.5%; */
+   
+   width: 770px;
+   float:left; 
+   padding-left: 5%;
+   background-image: url("C:\finalproj\reactapp\my-react-projapp\public\images\books1.avif");
+   /* background: linear-gradient(45deg, #8175eb,#ef58db); */
+   background-color: rgb(222, 222, 240);
+   background-size: cover;
+  
+}
+#maintext{
+    margin-top: 400px;
+    color:rgb(226, 80, 80);
+    font-size: 50px;
+    padding-left: -50px;
+}
+#maintext2{
+    margin-top: -300px;
+    color: #78daed;
+    font-size: 35px;
+    padding-top: 5%;
+    font-size: 48px;
+   
+}
+#aa3{
+    height: 495px;
+    margin-top: 1.5%;
+    box-shadow: -5px 5px 5px 2.5px grey;
+    background-image: url("C:\finalproj\reactapp\my-react-projapp\public\images\img4.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 690px;
+    float:left;
+    margin-right: 50px;
+    padding-left: 5%;
+    margin-bottom: 2%;
+}
+h2{
+    position: relative;
+    z-index: 1; 
+}
+#aa2{
+  padding-left: 2%;
+    color: black;
+    
+}

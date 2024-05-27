@@ -1,0 +1,65 @@
+.container {
+  margin-top: 1%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgba(162, 215, 233, 0.8); /* Semi-transparent white background */
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  position: relative; /* Add relative positioning */
+}
+
+#sign_form {
+  text-align: center;
+}
+
+.error-message {
+  color: #080808;
+  background-color: #c4c2c6;
+  padding: 5px 10px;
+  border-radius: 5px;
+  position: absolute; /* Position error message absolutely */
+  top: calc(100% + 5px); /* Position error message below the input */
+  left: 0;
+  font-weight: bold;
+  width: 95%;
+}
+
+.labels {
+  color: #0d0d0d;
+}
+
+.labels::after {
+  content: ' *'; /* Add space before asterisk */
+  color: red;
+  margin-left: 5px;
+}
+
+.form-control {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.login-button {
+  background-color: #6d35e7;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.login-button:hover {
+  background-color: #5129b1;
+}
+
+

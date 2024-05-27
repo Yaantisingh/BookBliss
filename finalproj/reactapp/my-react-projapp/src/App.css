@@ -1,0 +1,10 @@
+#page{
+  margin:0px;
+   height: 2100px;
+    width: 1520px;
+    background-color: rgb(241, 241, 241);
+    overflow: hidden;
+background-image: url("C:\finalproj\reactapp\my-react-projapp\public\images\bgimg2.avif"); 
+background-repeat: no-repeat;
+background-size: cover
+}

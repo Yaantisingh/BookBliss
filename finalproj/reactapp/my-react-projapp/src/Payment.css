@@ -1,0 +1,35 @@
+
+.main_pay{
+    width: 700px;
+    height: 550px;
+    background-color: rgb(188, 134, 135);
+    margin-left: 30%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+.payment{
+    width: 500px;
+    height: 300px;
+  
+}
+
+.pay_inp{
+    width: 600px;
+    height: 20px;
+    margin-top: 10px;
+  
+    margin-bottom: 5%;
+}
+.pay_lab{
+    width: 300px;
+    height: 20px;
+    padding-top: 5%;
+    padding-left: 7%;
+    margin-bottom: 10%;
+}
+.paybtn{
+    margin-top: 10%;
+    margin-left: 9%;
+    background-color: rgb(176, 61, 97);
+    width: 600px;
+}

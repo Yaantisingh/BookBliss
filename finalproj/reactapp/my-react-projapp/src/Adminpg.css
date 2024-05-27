@@ -1,0 +1,99 @@
+#admin{
+    padding-top: 10%;
+    height: 600px;
+    background-color: white;
+}
+#insert{
+    height: 55%;
+    width: 22%;
+    margin-right: 1%;
+    background: linear-gradient(45deg, #543cde,#9ef449);
+    float:left;
+    margin-left: 2%;
+    box-shadow: -5px 5px 5px 2.5px grey;
+    text-align:center;
+  font-size: 25px;
+}
+#insert:hover{
+    transition: 1s;
+    transform: scale(1.1);
+}
+#insert:not(:hover){
+    transition: 1s;
+    transform: scale(1);
+}
+#update{
+    height: 55%;
+    width: 22%;
+    margin-right: 1%;
+    float:left;
+    margin-left: 2%;
+    box-shadow: -5px 5px 5px 2.5px grey;
+    text-align:center;
+    font-size: 25px;
+    background: linear-gradient(45deg, #543cde,#9ef449);
+}
+#update:hover{
+    transition: 1s;
+    transform: scale(1.1);
+}
+#update:not(:hover){
+    transition: 1s;
+    transform: scale(1);
+}
+#display{
+    height: 55%;
+    width: 22%;
+    margin-right: 1%;
+    background: linear-gradient(45deg, #543cde,#9ef449);
+    float:left;
+    margin-left: 2%;
+    box-shadow: -5px 5px 5px 2.5px grey;
+    text-align:center;
+    font-size: 25px;
+}
+#display:hover{
+    transition: 1s;
+    transform: scale(1.1);
+}
+#display:not(:hover){
+    transition: 1s;
+    transform: scale(1);
+}
+#delete{
+    height: 55%;
+    width: 22%;
+    margin-right: 1%;
+    float:left;
+    margin-left: 2%;
+    font-size: 25px;
+    box-shadow: -5px 5px 5px 2.5px grey;
+    text-align:center;
+    background: linear-gradient(45deg,#543cde,#9ef449); 
+}
+#delete:hover{
+    transition: 1s;
+    transform: scale(1.1);
+}
+#delete:not(:hover){
+    transition: 1s;
+    transform: scale(1);
+}
+.design{
+    padding-left: 3px;
+    padding-top: 100px;
+}
+
+#logout{
+    margin-top: 20px;
+    height: 10%;
+    width: 15%;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 1%;
+    float:left;
+    margin-left: 2%;
+    box-shadow: -5px 5px 5px 2.5px grey;
+    text-align:center;
+    background: linear-gradient(45deg,#e17511,#ebb64d); 
+}
